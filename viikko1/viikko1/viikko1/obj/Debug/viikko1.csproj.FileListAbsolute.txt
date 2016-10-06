@@ -1,0 +1,10 @@
+C:\MyTemp\gko\viikko1\viikko1\viikko1\bin\Debug\viikko1.exe.config
+C:\MyTemp\gko\viikko1\viikko1\viikko1\bin\Debug\viikko1.exe
+C:\MyTemp\gko\viikko1\viikko1\viikko1\bin\Debug\viikko1.pdb
+C:\MyTemp\gko\viikko1\viikko1\viikko1\obj\Debug\viikko1.csprojResolveAssemblyReference.cache
+C:\MyTemp\gko\viikko1\viikko1\viikko1\obj\Debug\viikko1.Properties.Resources.resources
+C:\MyTemp\gko\viikko1\viikko1\viikko1\obj\Debug\viikko1.csproj.GenerateResource.Cache
+C:\MyTemp\gko\viikko1\viikko1\viikko1\obj\Debug\viikko1.exe
+C:\MyTemp\gko\viikko1\viikko1\viikko1\obj\Debug\viikko1.pdb
+C:\MyTemp\gko\viikko1\viikko1\viikko1\obj\Debug\viikko1.AboutBox1.resources
+C:\MyTemp\gko\viikko1\viikko1\viikko1\obj\Debug\viikko1.Ohjelma.resources

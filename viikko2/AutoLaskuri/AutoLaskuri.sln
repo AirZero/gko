@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLaskuri", "AutoLaskuri\AutoLaskuri.csproj", "{2D855544-E793-4602-B040-329BABD75C4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTextBox", "..\Laskuri\NumberTextBox\NumberTextBox.csproj", "{E7073AF7-BBA3-4934-BE6B-81EB63DAE90C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testipenkki", "testipenkki\testipenkki.csproj", "{1DE8BFA2-720E-412E-A082-A9A55DCA41B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autoLomake", "autoLomake\autoLomake.csproj", "{2DDDF36F-A537-4FE3-84B4-4CB48C8A4114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D855544-E793-4602-B040-329BABD75C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D855544-E793-4602-B040-329BABD75C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D855544-E793-4602-B040-329BABD75C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D855544-E793-4602-B040-329BABD75C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7073AF7-BBA3-4934-BE6B-81EB63DAE90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7073AF7-BBA3-4934-BE6B-81EB63DAE90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7073AF7-BBA3-4934-BE6B-81EB63DAE90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7073AF7-BBA3-4934-BE6B-81EB63DAE90C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE8BFA2-720E-412E-A082-A9A55DCA41B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE8BFA2-720E-412E-A082-A9A55DCA41B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE8BFA2-720E-412E-A082-A9A55DCA41B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE8BFA2-720E-412E-A082-A9A55DCA41B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DDDF36F-A537-4FE3-84B4-4CB48C8A4114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDDF36F-A537-4FE3-84B4-4CB48C8A4114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDDF36F-A537-4FE3-84B4-4CB48C8A4114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDDF36F-A537-4FE3-84B4-4CB48C8A4114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

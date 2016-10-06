@@ -1,0 +1,8 @@
+C:\MyTemp\gko\viikko2\AutoLaskuri\autoLomake\bin\Debug\autoLomake.exe.config
+C:\MyTemp\gko\viikko2\AutoLaskuri\autoLomake\bin\Debug\autoLomake.exe
+C:\MyTemp\gko\viikko2\AutoLaskuri\autoLomake\bin\Debug\autoLomake.pdb
+C:\MyTemp\gko\viikko2\AutoLaskuri\autoLomake\obj\Debug\autoLomake.Form1.resources
+C:\MyTemp\gko\viikko2\AutoLaskuri\autoLomake\obj\Debug\autoLomake.Properties.Resources.resources
+C:\MyTemp\gko\viikko2\AutoLaskuri\autoLomake\obj\Debug\autoLomake.csproj.GenerateResource.Cache
+C:\MyTemp\gko\viikko2\AutoLaskuri\autoLomake\obj\Debug\autoLomake.exe
+C:\MyTemp\gko\viikko2\AutoLaskuri\autoLomake\obj\Debug\autoLomake.pdb

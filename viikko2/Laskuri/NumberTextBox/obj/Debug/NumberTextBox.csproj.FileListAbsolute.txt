@@ -1,0 +1,14 @@
+C:\MyTemp\gko\viikko2\Laskuri\NumberTextBox\bin\Debug\NumberTextBox.dll
+C:\MyTemp\gko\viikko2\Laskuri\NumberTextBox\bin\Debug\NumberTextBox.pdb
+C:\MyTemp\gko\viikko2\Laskuri\NumberTextBox\obj\Debug\NumberTextBox.dll
+C:\MyTemp\gko\viikko2\Laskuri\NumberTextBox\obj\Debug\NumberTextBox.pdb
+C:\MyTemp\gko\viikko2\Laskuri\NumberTextBox\obj\Debug\NumberTextBox.csprojResolveAssemblyReference.cache
+C:\MyTemp\gko\viikko2\Laskuri\NumberTextBox\obj\Debug\NumberTextBox.NumberTextBox.resources
+C:\MyTemp\gko\viikko2\Laskuri\NumberTextBox\obj\Debug\NumberTextBox.csproj.GenerateResource.Cache
+U:\gko\viikko2\Laskuri\NumberTextBox\bin\Debug\NumberTextBox.dll
+U:\gko\viikko2\Laskuri\NumberTextBox\bin\Debug\NumberTextBox.pdb
+U:\gko\viikko2\Laskuri\NumberTextBox\obj\Debug\NumberTextBox.csprojResolveAssemblyReference.cache
+U:\gko\viikko2\Laskuri\NumberTextBox\obj\Debug\NumberTextBox.NumberTextBox.resources
+U:\gko\viikko2\Laskuri\NumberTextBox\obj\Debug\NumberTextBox.csproj.GenerateResource.Cache
+U:\gko\viikko2\Laskuri\NumberTextBox\obj\Debug\NumberTextBox.dll
+U:\gko\viikko2\Laskuri\NumberTextBox\obj\Debug\NumberTextBox.pdb

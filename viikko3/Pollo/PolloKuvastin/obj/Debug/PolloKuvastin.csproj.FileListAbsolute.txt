@@ -1,0 +1,4 @@
+C:\MyTemp\viikko3\Pollo\PolloKuvastin\bin\Debug\PolloKuvastin.dll
+C:\MyTemp\viikko3\Pollo\PolloKuvastin\bin\Debug\PolloKuvastin.pdb
+C:\MyTemp\viikko3\Pollo\PolloKuvastin\obj\Debug\PolloKuvastin.dll
+C:\MyTemp\viikko3\Pollo\PolloKuvastin\obj\Debug\PolloKuvastin.pdb
