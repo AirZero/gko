@@ -12,30 +12,32 @@ namespace PolloKuvastin
 {
     public partial class PolloKuvastin: UserControl
     {
+        
         Image pollokuva;
 
         public PolloKuvastin()
         {
             pollokuva = Image.FromFile("owl.png");
             InitializeComponent();
-            
+           
 
         }
 
         protected override void OnPaint(PaintEventArgs e)
         {
             Graphics test = e.Graphics;
-            
-           
-            
 
-            //Pen myPen = new Pen(Color.Black);
+
+            Pen myPen = new Pen(Color.Black);
            // myPen.Width = 30;
             //test.DrawLine(myPen, 1, 100, 1000, 100);
             test.DrawImageUnscaled(pollokuva, new Point(0, 0));
-            //dc.DrawImage(kuva, 0, 0, 30, 150);
+        //    test.DrawRectangle(myPen, 10, 10, 10, 10);
+            //System.Console.WriteLine("paskaa");
+         //   test.DrawImage(pollokuva, 0, 0, 30, 150);
             //  dc.DrawImage(kuva, 0, 0, kuva.Width, kuva.Height);
-
+         //   test.DrawImage(pollokuva, 0, 0, pollokuva.Width, pollokuva.Height);
+            
         }
     }
 

@@ -12,8 +12,9 @@ namespace PolloTulostin
 {
     public partial class PolloTulostin: UserControl
     {
-        
-        string tulostettava = "0";
+        string sanat = "";
+        string tulostettava = "0 asdsa asd asd asd asas d";
+        List<string> tuloste = new List<string>();
         
         [Category("Tekstitulostin"),
            Description("Tulostettava teksti"),
@@ -47,34 +48,49 @@ namespace PolloTulostin
         }
         }
 
-
+        */
         public PolloTulostin()
         {
             InitializeComponent();
            // piirturi(this, "jee");
           //
-            
-            Invalidate();
-          Graphics s = this.CreateGraphics();
+            timer1.Enabled = true;
+            timer1.Interval = 500;
+           // Invalidate();
+         // Graphics s = this.CreateGraphics();
             //RenderText6();
-
+            BackColor = Color.Black;
         }
-        */
+        
 
         protected override void OnPaint(PaintEventArgs e)
         {
            
             
-            using (Font font2 = new Font("Arial", 12, FontStyle.Bold, GraphicsUnit.Point))
+            using (Font font2 = new Font("Impact", 40, FontStyle.Bold, GraphicsUnit.Point))
             {
 
 
-                string text2 = teksti;
+               
                 Rectangle rect2 = new Rectangle(0, 0, ClientSize.Width, ClientSize.Height);//(1, 1, 44, 44);
-                TextFormatFlags flags = TextFormatFlags.Bottom |TextFormatFlags.Left | TextFormatFlags.WordBreak;
+                TextFormatFlags flags = TextFormatFlags.Top |TextFormatFlags.Left | TextFormatFlags.WordBreak;
                //  e.Graphics.DrawRectangle(Pens.Black, rect2);
-                TextRenderer.DrawText(e.Graphics, text2, font2, rect2, Color.Blue, flags);
+                TextRenderer.DrawText(e.Graphics, sanat, font2, rect2, Color.White, flags);
             }
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            
+            
+            tuloste.AddRange (tulostettava.Split(' '));
+            
+            
+            sanat = tuloste[0];
+            tuloste.Add(tuloste[0]);
+            tuloste.Remove(tuloste[0]);
+            Invalidate();
+
         }
 
      
