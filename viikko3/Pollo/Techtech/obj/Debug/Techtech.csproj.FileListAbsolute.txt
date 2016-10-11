@@ -1,0 +1,5 @@
+C:\MyTemp\gko\viikko3\Pollo\Techtech\bin\Debug\Techtech.dll
+C:\MyTemp\gko\viikko3\Pollo\Techtech\bin\Debug\Techtech.pdb
+C:\MyTemp\gko\viikko3\Pollo\Techtech\obj\Debug\Techtech.dll
+C:\MyTemp\gko\viikko3\Pollo\Techtech\obj\Debug\Techtech.pdb
+C:\MyTemp\gko\viikko3\Pollo\Techtech\obj\Debug\Techtech.csprojResolveAssemblyReference.cache

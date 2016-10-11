@@ -1,0 +1,11 @@
+C:\MyTemp\viikko3\Pollo\PolloKuvastin\bin\Debug\PolloKuvastin.dll
+C:\MyTemp\viikko3\Pollo\PolloKuvastin\bin\Debug\PolloKuvastin.pdb
+C:\MyTemp\viikko3\Pollo\PolloKuvastin\obj\Debug\PolloKuvastin.dll
+C:\MyTemp\viikko3\Pollo\PolloKuvastin\obj\Debug\PolloKuvastin.pdb
+C:\MyTemp\gko\viikko3\Pollo\PolloKuvastin\bin\Debug\PolloKuvastin.dll
+C:\MyTemp\gko\viikko3\Pollo\PolloKuvastin\bin\Debug\PolloKuvastin.pdb
+C:\MyTemp\gko\viikko3\Pollo\PolloKuvastin\obj\Debug\PolloKuvastin.csprojResolveAssemblyReference.cache
+C:\MyTemp\gko\viikko3\Pollo\PolloKuvastin\obj\Debug\PolloKuvastin.dll
+C:\MyTemp\gko\viikko3\Pollo\PolloKuvastin\obj\Debug\PolloKuvastin.pdb
+C:\MyTemp\gko\viikko3\Pollo\PolloKuvastin\obj\Debug\PolloKuvastin.PolloKuvastin.resources
+C:\MyTemp\gko\viikko3\Pollo\PolloKuvastin\obj\Debug\PolloKuvastin.csproj.GenerateResource.Cache

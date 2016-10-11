@@ -7,7 +7,7 @@
     <ProjectGuid>{3DB995EF-8C20-497C-AF6A-5B01F453D322}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PolloTulostin</RootNamespace>
+    <RootNamespace>Scroller</RootNamespace>
     <AssemblyName>AjoitettuTeksti</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -41,18 +41,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PolloTulostin.cs">
+    <Compile Include="Scroller.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="PolloTulostin.Designer.cs">
-      <DependentUpon>PolloTulostin.cs</DependentUpon>
+    <Compile Include="Scroller.Designer.cs">
+      <DependentUpon>Scroller.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="PolloTulostin.resx">
-      <DependentUpon>PolloTulostin.cs</DependentUpon>
+    <EmbeddedResource Include="Scroller.resx">
+      <DependentUpon>Scroller.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
