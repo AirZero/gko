@@ -1,0 +1,12 @@
+C:\MyTemp\gko\viikko3\KilometriNopeus\Treeni\bin\Debug\Treeni.exe.config
+C:\MyTemp\gko\viikko3\KilometriNopeus\Treeni\bin\Debug\Treeni.exe
+C:\MyTemp\gko\viikko3\KilometriNopeus\Treeni\bin\Debug\Treeni.pdb
+C:\MyTemp\gko\viikko3\KilometriNopeus\Treeni\obj\Debug\MainWindow.baml
+C:\MyTemp\gko\viikko3\KilometriNopeus\Treeni\obj\Debug\MainWindow.g.cs
+C:\MyTemp\gko\viikko3\KilometriNopeus\Treeni\obj\Debug\App.g.cs
+C:\MyTemp\gko\viikko3\KilometriNopeus\Treeni\obj\Debug\Treeni_MarkupCompile.cache
+C:\MyTemp\gko\viikko3\KilometriNopeus\Treeni\obj\Debug\Treeni.g.resources
+C:\MyTemp\gko\viikko3\KilometriNopeus\Treeni\obj\Debug\Treeni.Properties.Resources.resources
+C:\MyTemp\gko\viikko3\KilometriNopeus\Treeni\obj\Debug\Treeni.csproj.GenerateResource.Cache
+C:\MyTemp\gko\viikko3\KilometriNopeus\Treeni\obj\Debug\Treeni.exe
+C:\MyTemp\gko\viikko3\KilometriNopeus\Treeni\obj\Debug\Treeni.pdb

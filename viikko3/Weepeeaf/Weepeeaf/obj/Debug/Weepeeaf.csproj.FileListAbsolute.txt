@@ -1,0 +1,15 @@
+C:\MyTemp\gko\viikko3\Weepeeaf\Weepeeaf\bin\Debug\Weepeeaf.exe.config
+C:\MyTemp\gko\viikko3\Weepeeaf\Weepeeaf\bin\Debug\Weepeeaf.exe
+C:\MyTemp\gko\viikko3\Weepeeaf\Weepeeaf\bin\Debug\Weepeeaf.pdb
+C:\MyTemp\gko\viikko3\Weepeeaf\Weepeeaf\obj\Debug\Weepeeaf.csprojResolveAssemblyReference.cache
+C:\MyTemp\gko\viikko3\Weepeeaf\Weepeeaf\obj\Debug\MainWindow.baml
+C:\MyTemp\gko\viikko3\Weepeeaf\Weepeeaf\obj\Debug\MainWindow.g.cs
+C:\MyTemp\gko\viikko3\Weepeeaf\Weepeeaf\obj\Debug\App.g.cs
+C:\MyTemp\gko\viikko3\Weepeeaf\Weepeeaf\obj\Debug\Weepeeaf_MarkupCompile.cache
+C:\MyTemp\gko\viikko3\Weepeeaf\Weepeeaf\obj\Debug\Weepeeaf.g.resources
+C:\MyTemp\gko\viikko3\Weepeeaf\Weepeeaf\obj\Debug\Weepeeaf.Properties.Resources.resources
+C:\MyTemp\gko\viikko3\Weepeeaf\Weepeeaf\obj\Debug\Weepeeaf.csproj.GenerateResource.Cache
+C:\MyTemp\gko\viikko3\Weepeeaf\Weepeeaf\obj\Debug\Weepeeaf.exe
+C:\MyTemp\gko\viikko3\Weepeeaf\Weepeeaf\obj\Debug\Weepeeaf.pdb
+C:\MyTemp\gko\viikko3\Weepeeaf\Weepeeaf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\MyTemp\gko\viikko3\Weepeeaf\Weepeeaf\obj\Debug\Weepeeaf_MarkupCompile.lref

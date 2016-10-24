@@ -3,7 +3,6 @@ C:\MyTemp\gko\viikko3\Pollo\AjoitettuTeksti\bin\Debug\AjoitettuTeksti.pdb
 C:\MyTemp\gko\viikko3\Pollo\AjoitettuTeksti\obj\Debug\AjoitettuTeksti.dll
 C:\MyTemp\gko\viikko3\Pollo\AjoitettuTeksti\obj\Debug\AjoitettuTeksti.pdb
 C:\MyTemp\gko\viikko3\Pollo\AjoitettuTeksti\obj\Debug\AjoitettuTeksti.csproj.GenerateResource.Cache
-C:\MyTemp\gko\viikko3\Pollo\AjoitettuTeksti\obj\Debug\AjoitettuTeksti.csprojResolveAssemblyReference.cache
 C:\MyTemp\viikko3\Pollo\AjoitettuTeksti\obj\Debug\AjoitettuTeksti.csprojResolveAssemblyReference.cache
 C:\MyTemp\viikko3\Pollo\AjoitettuTeksti\obj\Debug\AjoitettuTeksti.csproj.GenerateResource.Cache
 C:\MyTemp\viikko3\Pollo\AjoitettuTeksti\obj\Debug\AjoitettuTeksti.dll
@@ -11,4 +10,4 @@ C:\MyTemp\viikko3\Pollo\AjoitettuTeksti\bin\Debug\AjoitettuTeksti.dll
 C:\MyTemp\viikko3\Pollo\AjoitettuTeksti\bin\Debug\AjoitettuTeksti.pdb
 C:\MyTemp\viikko3\Pollo\AjoitettuTeksti\obj\Debug\AjoitettuTeksti.pdb
 C:\MyTemp\viikko3\Pollo\AjoitettuTeksti\obj\Debug\PolloTulostin.PolloTulostin.resources
-C:\MyTemp\gko\viikko3\Pollo\AjoitettuTeksti\obj\Debug\Scroller.Scroller.resources
+C:\MyTemp\gko\viikko3\Pollo\AjoitettuTeksti\obj\Debug\PolloTulostin.PolloTulostin.resources

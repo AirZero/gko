@@ -1,0 +1,13 @@
+C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\bin\Debug\kilometriLaskuri.exe.config
+C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\bin\Debug\kilometriLaskuri.exe
+C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\bin\Debug\kilometriLaskuri.pdb
+C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\obj\Debug\MainWindow.baml
+C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\obj\Debug\MainWindow.g.cs
+C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\obj\Debug\App.g.cs
+C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\obj\Debug\kilometriLaskuri_MarkupCompile.cache
+C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\obj\Debug\kilometriLaskuri.g.resources
+C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\obj\Debug\kilometriLaskuri.Properties.Resources.resources
+C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\obj\Debug\kilometriLaskuri.csproj.GenerateResource.Cache
+C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\obj\Debug\kilometriLaskuri.exe
+C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\obj\Debug\kilometriLaskuri.pdb
+C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\obj\Debug\kilometriLaskuri.csprojResolveAssemblyReference.cache

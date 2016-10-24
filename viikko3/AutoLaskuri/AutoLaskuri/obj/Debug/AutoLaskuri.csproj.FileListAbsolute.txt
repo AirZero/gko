@@ -1,0 +1,4 @@
+C:\MyTemp\gko\viikko3\AutoLaskuri\AutoLaskuri\bin\Debug\AutoLaskuri.dll
+C:\MyTemp\gko\viikko3\AutoLaskuri\AutoLaskuri\bin\Debug\AutoLaskuri.pdb
+C:\MyTemp\gko\viikko3\AutoLaskuri\AutoLaskuri\obj\Debug\AutoLaskuri.dll
+C:\MyTemp\gko\viikko3\AutoLaskuri\AutoLaskuri\obj\Debug\AutoLaskuri.pdb
