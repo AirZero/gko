@@ -1,0 +1,28 @@
+c:\users\k842990\documents\visual studio 2015\Projects\Demo5\Demo5\bin\Debug\Demo5.exe.config
+c:\users\k842990\documents\visual studio 2015\Projects\Demo5\Demo5\bin\Debug\Demo5.exe
+c:\users\k842990\documents\visual studio 2015\Projects\Demo5\Demo5\bin\Debug\Demo5.pdb
+c:\users\k842990\documents\visual studio 2015\Projects\Demo5\Demo5\obj\Debug\Demo5.csprojResolveAssemblyReference.cache
+c:\users\k842990\documents\visual studio 2015\Projects\Demo5\Demo5\obj\Debug\MainWindow.g.cs
+c:\users\k842990\documents\visual studio 2015\Projects\Demo5\Demo5\obj\Debug\App.g.cs
+c:\users\k842990\documents\visual studio 2015\Projects\Demo5\Demo5\obj\Debug\Demo5_MarkupCompile.cache
+c:\users\k842990\documents\visual studio 2015\Projects\Demo5\Demo5\obj\Debug\Demo5_MarkupCompile.lref
+c:\users\k842990\documents\visual studio 2015\Projects\Demo5\Demo5\obj\Debug\MainWindow.baml
+c:\users\k842990\documents\visual studio 2015\Projects\Demo5\Demo5\obj\Debug\Demo5.g.resources
+c:\users\k842990\documents\visual studio 2015\Projects\Demo5\Demo5\obj\Debug\Demo5.Properties.Resources.resources
+c:\users\k842990\documents\visual studio 2015\Projects\Demo5\Demo5\obj\Debug\Demo5.csproj.GenerateResource.Cache
+c:\users\k842990\documents\visual studio 2015\Projects\Demo5\Demo5\obj\Debug\Demo5.exe
+c:\users\k842990\documents\visual studio 2015\Projects\Demo5\Demo5\obj\Debug\Demo5.pdb
+C:\MyTemp\gko\Demo5\Demo5\bin\Debug\Demo5.exe.config
+C:\MyTemp\gko\Demo5\Demo5\obj\Debug\Demo5.exe
+C:\MyTemp\gko\Demo5\Demo5\obj\Debug\Demo5.pdb
+C:\MyTemp\gko\Demo5\Demo5\bin\Debug\Demo5.exe
+C:\MyTemp\gko\Demo5\Demo5\bin\Debug\Demo5.pdb
+C:\MyTemp\gko\Demo5\Demo5\obj\Debug\Demo5.csprojResolveAssemblyReference.cache
+C:\MyTemp\gko\Demo5\Demo5\obj\Debug\MainWindow.g.cs
+C:\MyTemp\gko\Demo5\Demo5\obj\Debug\App.g.cs
+C:\MyTemp\gko\Demo5\Demo5\obj\Debug\Demo5_MarkupCompile.cache
+C:\MyTemp\gko\Demo5\Demo5\obj\Debug\Demo5_MarkupCompile.lref
+C:\MyTemp\gko\Demo5\Demo5\obj\Debug\MainWindow.baml
+C:\MyTemp\gko\Demo5\Demo5\obj\Debug\Demo5.g.resources
+C:\MyTemp\gko\Demo5\Demo5\obj\Debug\Demo5.Properties.Resources.resources
+C:\MyTemp\gko\Demo5\Demo5\obj\Debug\Demo5.csproj.GenerateResource.Cache

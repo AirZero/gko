@@ -1,0 +1,54 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Mylly" x:Class="Mylly.MainWindow"
+        Title="MainWindow" Height="700" Width="1050"
+        MinHeight="350" MinWidth="525"
+        >
+
+    <Window.CommandBindings>
+        <CommandBinding Command="Print" Executed="InvokePrint" />
+    </Window.CommandBindings>
+
+    <Grid>
+        <Menu IsMainMenu="True" VerticalAlignment="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_New Game"/>
+                <MenuItem Header="_Print" Command="Print"/>
+            </MenuItem>
+
+            <MenuItem Header="_Game">
+                <MenuItem Header="Insert Piece"/>
+                <MenuItem Header="Remove Piece"/>
+                <MenuItem Header="Move Piece"/>
+            </MenuItem>
+
+            <MenuItem Header="_Tools" >
+                <MenuItem Header="_Settings" />
+            </MenuItem>
+
+            <MenuItem Header="_Help">
+                <MenuItem Header="_About"/>
+                <MenuItem Header="Avustus"/>
+            </MenuItem>
+        </Menu>
+
+        <Canvas x:Name="pelialue" Width="Auto" Height="Auto" HorizontalAlignment="Left" VerticalAlignment="Top">
+        
+        
+        </Canvas>
+        <local:Gameboard Height="Auto" Width="Auto" Canvas.Left="20" Canvas.Top="40"  >
+            <local:Gameboard.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </local:Gameboard.RenderTransform>
+        </local:Gameboard>
+
+     
+    </Grid>
+
+</Window>

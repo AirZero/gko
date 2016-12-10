@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WpfControlLibrary1;
 
 namespace kilometriLaskuri
 {
@@ -23,6 +24,17 @@ namespace kilometriLaskuri
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void MenuItem_Click_1(object sender, RoutedEventArgs e)
+        {
+            UserControl1 UusiLaskuri = new UserControl1();
+            Laskurit.Children.Add(UusiLaskuri);
+        }
+
+        private void Sulki(object sender, RoutedEventArgs e)
+        { 
+        this.Close();
         }
     }
 }

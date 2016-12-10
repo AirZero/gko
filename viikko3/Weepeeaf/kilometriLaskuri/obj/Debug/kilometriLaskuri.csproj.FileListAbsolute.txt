@@ -11,3 +11,5 @@ C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\obj\Debug\kilometriLaskuri.cspro
 C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\obj\Debug\kilometriLaskuri.exe
 C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\obj\Debug\kilometriLaskuri.pdb
 C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\obj\Debug\kilometriLaskuri.csprojResolveAssemblyReference.cache
+C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\bin\Debug\WpfControlLibrary1.dll
+C:\MyTemp\gko\viikko3\Weepeeaf\kilometriLaskuri\bin\Debug\WpfControlLibrary1.pdb

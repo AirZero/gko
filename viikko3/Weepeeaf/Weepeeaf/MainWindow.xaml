@@ -8,7 +8,7 @@
             <RowDefinition Height="157*"/>
             <RowDefinition Height="3*"/>
         </Grid.RowDefinitions>
-        <Button Content="Button" HorizontalAlignment="Right" VerticalAlignment="Center" Width="75" Margin="0,149,0,143"/>
+        <Button Content="Button" HorizontalAlignment="Right" VerticalAlignment="Center" Width="75" Margin="0,149,0,143" RenderTransformOrigin="0.5,0.5"/>
         <TextBox x:Name="test" HorizontalAlignment="Left" Height="24"  TextWrapping="Wrap" Text="sda&#xD;&#xA;" VerticalAlignment="Center" Width="120" TextChanged="TextBox_TextChanged_1" Margin="0,148,0,142"/>
         <Label Content="Label" HorizontalAlignment="Left"  VerticalAlignment="Top"/>
         <Label HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,459,0" Height="26" Width="58" Grid.RowSpan="2" Content="Label&#xD;&#xA;">
