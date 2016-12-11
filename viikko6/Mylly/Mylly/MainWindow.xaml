@@ -3,12 +3,17 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:local="clr-namespace:Mylly" x:Class="Mylly.MainWindow"
         Title="MainWindow" Height="700" Width="1050"
-        MinHeight="350" MinWidth="525"
+        MinHeight="290" MinWidth="250"
         >
 
     <Window.CommandBindings>
         <CommandBinding Command="Print" Executed="InvokePrint" />
+        <CommandBinding Command="Properties" Executed="Aboutbox" />
+        <CommandBinding Command="Stop" Executed="Varit" />
+        <CommandBinding Command="Delete" />
+        
     </Window.CommandBindings>
+    
 
     <Grid>
         <Menu IsMainMenu="True" VerticalAlignment="Top">
@@ -19,35 +24,37 @@
 
             <MenuItem Header="_Game">
                 <MenuItem Header="Insert Piece"/>
-                <MenuItem Header="Remove Piece"/>
-                <MenuItem Header="Move Piece"/>
+                <MenuItem Header="Remove Piece" Command="Delete" />
+                <MenuItem Header="Move Piece" />
             </MenuItem>
 
             <MenuItem Header="_Tools" >
-                <MenuItem Header="_Settings" />
+                <MenuItem Header="_Settings" Command="Stop" />
             </MenuItem>
 
             <MenuItem Header="_Help">
-                <MenuItem Header="_About"/>
+                <MenuItem Header="_About" Command="Properties" />
                 <MenuItem Header="Avustus"/>
             </MenuItem>
         </Menu>
 
-        <Canvas x:Name="pelialue" Width="Auto" Height="Auto" HorizontalAlignment="Left" VerticalAlignment="Top">
-        
-        
-        </Canvas>
-        <local:Gameboard Height="Auto" Width="Auto" Canvas.Left="20" Canvas.Top="40"  >
-            <local:Gameboard.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform/>
-                    <SkewTransform/>
-                    <RotateTransform/>
-                    <TranslateTransform/>
-                </TransformGroup>
-            </local:Gameboard.RenderTransform>
-        </local:Gameboard>
 
+       
+            <Grid x:Name="pelialue" Width="Auto" Height="649" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,21,0,0">
+
+
+                <local:Gameboard Height="Auto" Width="Auto" Canvas.Left="20" Canvas.Top="40"  >
+                    <local:Gameboard.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </local:Gameboard.RenderTransform>
+                </local:Gameboard>
+            
+        </Grid>
      
     </Grid>
 

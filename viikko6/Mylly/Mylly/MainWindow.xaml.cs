@@ -21,6 +21,7 @@ namespace Mylly
     /// </summary>
     public partial class MainWindow : Window
     {
+     
         public MainWindow()
         {
             InitializeComponent();
@@ -47,6 +48,33 @@ namespace Mylly
           //     pDialog.PrintDocument(fixedDocSeq.DocumentPaginator, "Test print job");
             }
         }
+        private void Aboutbox(object sender, RoutedEventArgs e)
+        {
+              AboutBox1 About = new AboutBox1();
+              About.Show();
+
+            }
+
+     
+        
+
+        private void Varit(object sender, RoutedEventArgs e)
+        {
+ 
+            System.Windows.Forms.ColorDialog varikartta = new System.Windows.Forms.ColorDialog();
+            varikartta.ShowDialog();
+            
+       
+        }
+
+        public void Deletoi(object sender, RoutedEventArgs e) {
+        
+        } 
+        
+    
+    }
+        
+     
 
     }
 

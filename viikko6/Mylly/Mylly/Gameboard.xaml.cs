@@ -20,6 +20,8 @@ namespace Mylly
     /// </summary>
     public partial class Gameboard : UserControl
     {
+
+
         public Gameboard()
         {
             InitializeComponent();
@@ -28,7 +30,7 @@ namespace Mylly
         private void CheckBox_Checked(object sender, RoutedEventArgs e)
         {
             LisaaNappula(sender as CheckBox);
-            //            Handle(sender as CheckBox);
+   
         }
 
         private void LisaaNappula(CheckBox checkBox)
@@ -37,17 +39,28 @@ namespace Mylly
             checkBox.GetValue(Grid.ColumnProperty);
             nappula.SetValue(Grid.ColumnProperty, checkBox.GetValue(Grid.ColumnProperty));
             ruudukko.Children.Add(nappula);
-          //  MessageBox.Show("jee");
+          
             
         }
 
+        public void Poista() {
+        
+            foreach(CheckBox laatikko in ruudukko.Children){
+            if(laatikko.IsChecked == true){
+                ruudukko.Children.Remove(laatikko);
+                }
+            }
+        }
+
+        
 
         private void CheckBox_Unchecked(object sender, RoutedEventArgs e)
         {
             
         }
 
+        
       
-        }
+       }
 
-    }
+   }
