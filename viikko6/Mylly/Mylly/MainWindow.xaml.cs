@@ -14,6 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 
+
 namespace Mylly
 {
     /// <summary>
@@ -21,7 +22,7 @@ namespace Mylly
     /// </summary>
     public partial class MainWindow : Window
     {
-     
+      
         public MainWindow()
         {
             InitializeComponent();
@@ -55,22 +56,32 @@ namespace Mylly
 
             }
 
-     
+    
         
+   
+
+        /// <summary>
+        /// Kutsuu nappulanpoistajaa.
+        /// </summary>
+        public void Deletoi(object sender, RoutedEventArgs e) {
+            pelikentta.Poista();
+
+        }
+
+        public void Reset(object sender, RoutedEventArgs e)
+        {
+            pelikentta.UusiPeli();
+            }
 
         private void Varit(object sender, RoutedEventArgs e)
         {
- 
-            System.Windows.Forms.ColorDialog varikartta = new System.Windows.Forms.ColorDialog();
-            varikartta.ShowDialog();
-            
-       
-        }
 
-        public void Deletoi(object sender, RoutedEventArgs e) {
+            Settings asetukset = new Settings();
+            asetukset.Show();
+
+        }
         
-        } 
-        
+
     
     }
         
@@ -79,4 +90,4 @@ namespace Mylly
     }
 
 
-}
+

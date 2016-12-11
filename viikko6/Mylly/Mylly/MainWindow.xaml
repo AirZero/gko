@@ -6,11 +6,13 @@
         MinHeight="290" MinWidth="250"
         >
 
+
     <Window.CommandBindings>
         <CommandBinding Command="Print" Executed="InvokePrint" />
         <CommandBinding Command="Properties" Executed="Aboutbox" />
-        <CommandBinding Command="Stop" Executed="Varit" />
-        <CommandBinding Command="Delete" />
+        <CommandBinding Command="ContextMenu" Executed="Varit" />
+        <CommandBinding Command="Delete" Executed="Deletoi" />
+        <CommandBinding Command="New" Executed="Reset" />
         
     </Window.CommandBindings>
     
@@ -18,7 +20,7 @@
     <Grid>
         <Menu IsMainMenu="True" VerticalAlignment="Top">
             <MenuItem Header="_File">
-                <MenuItem Header="_New Game"/>
+                <MenuItem Header="_New Game" Command="New" />
                 <MenuItem Header="_Print" Command="Print"/>
             </MenuItem>
 
@@ -29,7 +31,7 @@
             </MenuItem>
 
             <MenuItem Header="_Tools" >
-                <MenuItem Header="_Settings" Command="Stop" />
+                <MenuItem Header="_Settings" Command="ContextMenu" />
             </MenuItem>
 
             <MenuItem Header="_Help">
@@ -43,8 +45,8 @@
             <Grid x:Name="pelialue" Width="Auto" Height="649" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,21,0,0">
 
 
-                <local:Gameboard Height="Auto" Width="Auto" Canvas.Left="20" Canvas.Top="40"  >
-                    <local:Gameboard.RenderTransform>
+            <local:Gameboard x:Name="pelikentta" Height="Auto" Width="Auto" Canvas.Left="20" Canvas.Top="40"  >
+                <local:Gameboard.RenderTransform>
                         <TransformGroup>
                             <ScaleTransform/>
                             <SkewTransform/>

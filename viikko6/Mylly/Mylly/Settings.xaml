@@ -2,13 +2,24 @@
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Settings" Height="300" Width="300">
+    <Window.CommandBindings>
+        <CommandBinding Command="ContextMenu" Executed="Varit" />
+        <CommandBinding Command="Close" Executed="Sulje" />
+        <CommandBinding Command="Save" Executed="Tallenna" />
+    </Window.CommandBindings>
     <Grid>
-        <Button Content="OK" HorizontalAlignment="Left" Margin="10,238,0,0" VerticalAlignment="Top" Width="75"/>
-        <Button Content="Cancel" HorizontalAlignment="Left" Margin="207,238,0,0" VerticalAlignment="Top" Width="75"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="10,31,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+
+
+        <Button Command="Save" Content="OK" HorizontalAlignment="Left" Margin="10,238,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Command="Close"  Content="Cancel" HorizontalAlignment="Left" Margin="207,238,0,0" VerticalAlignment="Top" Width="75"/>
         <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Nappuloiden väri" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="135,10,0,0" TextWrapping="Wrap" Text="Laudan väri" VerticalAlignment="Top"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="135,31,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Ellipse x:Name="esikatseluNappulat" Fill="Blue" HorizontalAlignment="Left" Height="55" Margin="30,45,0,0"  VerticalAlignment="Top" Width="55"/>
+        <Ellipse x:Name="esikatseluLauta" Fill="Brown" HorizontalAlignment="Left" Height="55" Margin="141,45,0,0" VerticalAlignment="Top" Width="55"/>
+        <Button x:Name="vaihdaNappula" Command="ContextMenu" Content="Vaihda" HorizontalAlignment="Left" Margin="26,117,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="vaihdaLauta" Command="ContextMenu" Content="Vaihda" HorizontalAlignment="Left" Margin="135,117,0,0" VerticalAlignment="Top" Width="75"/>
+
+
 
     </Grid>
 </Window>
