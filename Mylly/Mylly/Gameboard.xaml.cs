@@ -81,9 +81,11 @@ namespace Mylly
         public void UusiPeli() {
             var lista = ruudukko.Children.OfType<Nappula>().ToList();
             foreach(var item in lista){
-                ruudukko.Children.Remove(item);
+                // ruudukko.Children.Remove(item);
             }
-           
+            varitin(Brushes.Pink);
+
+
         }
 
 
@@ -94,10 +96,15 @@ namespace Mylly
         }
 
         public void varitin(Brush suti) {
-            var lista = ruudukko.Children.OfType<Nappula>().ToList();
-            foreach (var item in lista)
+            
+            var lista2 = ruudukko.Children.OfType<Nappula>().ToList();
+            foreach (var item in lista2)
             {
-            //  ruudukko.Children.
+                
+                Height = 111111;
+                Background = Brushes.Pink;
+                //  ruudukko.Children.
+                MessageBox.Show("Hello, world!");
             }
             
         

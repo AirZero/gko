@@ -57,7 +57,10 @@
                 </local:Gameboard>
             
         </Grid>
-     
+        <Button x:Name="insert_button" Content="Insert Piece&#xD;&#xA;" HorizontalAlignment="Left" Margin="697,81,0,0" VerticalAlignment="Top" Width="278" Height="109"/>
+        <Button x:Name="remove_button" Content="Remove Piece&#xD;&#xA;&#xA;" HorizontalAlignment="Left" Margin="697,254,0,0" VerticalAlignment="Top" Width="278" Height="109"/>
+        <Button x:Name="move_button" Content="Move Piece&#xA;" HorizontalAlignment="Left" Margin="697,404,0,0" VerticalAlignment="Top" Width="278" Height="109"/>
+
     </Grid>
 
 </Window>
