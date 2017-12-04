@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-F:\gko\Mylly\Mylly\obj\Debug\
+C:\gko\Mylly\Mylly\obj\Debug\
 Mylly
 none
 false
 DEBUG;TRACE
-F:\gko\Mylly\Mylly\App.xaml
+C:\gko\Mylly\Mylly\App.xaml
 4209296522
 
 14-1012057106
 141012385901
 Gameboard.xaml;MainWindow.xaml;Nappula.xaml;Settings.xaml;
 
-False
+True
 
